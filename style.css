@@ -20,10 +20,11 @@ body {
 
 nav {
     position: relative;
-    bottom: 20px;
+    bottom: 37px;
 }
 nav p{
    color: var(--main-grey);
+   margin-top: 8px;
 
 }
 
